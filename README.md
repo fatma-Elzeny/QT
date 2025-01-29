@@ -1,5 +1,5 @@
-# QT
-#Qt ReadMe (QML-Based)  
+
+#Qt (QML-Based)  
 
 ## Overview  
 Qt is a powerful cross-platform development framework that supports both C++ and QML. **QML (Qt Modeling Language)** is a declarative language used for designing fluid and modern user interfaces, particularly for embedded systems, mobile apps, and desktop applications with responsive UI.  
