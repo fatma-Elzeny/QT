@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-efd84c2815929e5b0499.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HelloWorld",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-ce8be78f41395f428165.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-d407c42cb8d6dfcc6d83.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-c0f0da90633b62386f6c.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-1c9f1e2f0f44454efb1a.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorld::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorld-Debug-6f430c1fe36cc0151185.json",
+					"name" : "appHelloWorld",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorld_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorld_autogen-Debug-a9a52ae493d951fa6375.json",
+					"name" : "appHelloWorld_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorld_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorld_autogen_timestamp_deps-Debug-946468816ba95b65884d.json",
+					"name" : "appHelloWorld_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorld_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorld_qmlimportscan-Debug-8cd3ebb723c019303852.json",
+					"name" : "appHelloWorld_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorld_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorld_qmllint-Debug-c97d9a96594cefa5fbec.json",
+					"name" : "appHelloWorld_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorld_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorld_qmllint_json-Debug-3892494c9ce08ab95e9c.json",
+					"name" : "appHelloWorld_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorld_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorld_qmllint_module-Debug-7409ef04340b8729cc72.json",
+					"name" : "appHelloWorld_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorld_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorld_qmltyperegistration-Debug-1ae0021f40310435b49b.json",
+					"name" : "appHelloWorld_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appHelloWorld_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appHelloWorld_tooling-Debug-d657786f0601d43ffdf6.json",
+					"name" : "appHelloWorld_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/fatma/HelloWorld/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+		"source" : "/home/fatma/HelloWorld"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
