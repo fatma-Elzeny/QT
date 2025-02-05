@@ -1,0 +1,14 @@
+-rootPath
+/home/fatma/Task2
+-cmake-output
+-output-file
+/home/fatma/Task2/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appTask2.cmake
+-importPath
+/home/fatma/Task2/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/Task2
+-importPath
+/home/fatma/Task2/build/Desktop_Qt_6_5_3_GCC_64bit-Debug
+-importPath
+/home/fatma/Qt/6.5.3/gcc_64/./qml
+-qrcFiles
+/home/fatma/Task2/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/qmake_Task2.qrc
+/home/fatma/Task2/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/.rcc/appTask2_raw_qml_0.qrc

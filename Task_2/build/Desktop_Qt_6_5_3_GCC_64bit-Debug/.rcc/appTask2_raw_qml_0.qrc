@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/Task2/">
+    <file alias="Main.qml">/home/fatma/Task2/Main.qml</file>
+    <file alias="resources.qrc">/home/fatma/Task2/resources.qrc</file>
+  </qresource>
+</RCC>
+
